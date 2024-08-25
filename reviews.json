@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Chen",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Dr. Chen's lectures are engaging and her lab sessions are incredibly informative. Best professor I've had!"
+      },
+      {
+        "professor": "Prof. Michael Brown",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Brown brings history to life with his storytelling. Sometimes goes off-topic, but always interesting."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Dr. Johnson knows her stuff, but can be a bit dry in lectures. Office hours are helpful."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Prof. Lee's practical approach to teaching programming is excellent. Very patient with beginners."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Dr. Green's research experience adds depth to her lectures. Assignments can be challenging but rewarding."
+      },
+      {
+        "professor": "Prof. Thomas Wilson",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Prof. Wilson moves too fast in lectures. Difficult to follow without extensive prior knowledge."
+      },
+      {
+        "professor": "Dr. Lisa Martinez",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Martinez makes complex concepts easy to understand. Her enthusiasm is contagious!"
+      },
+      {
+        "professor": "Prof. James Taylor",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Prof. Taylor's knowledge is vast, but he can be intimidating in class discussions."
+      },
+      {
+        "professor": "Dr. Amanda White",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. White's classes are thought-provoking. Group projects are particularly enlightening."
+      },
+      {
+        "professor": "Prof. Robert Garcia",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Prof. Garcia's real-world examples are helpful, but his exams are notoriously difficult."
+      },
+      {
+        "professor": "Dr. Jennifer Lee",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Lee's passion for art is evident in every lecture. Field trips to museums were a highlight."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Prof. Kim encourages critical thinking and lively debates. Very knowledgeable about current events."
+      },
+      {
+        "professor": "Dr. Laura Thompson",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Thompson's hands-on approach to learning is fantastic. Lab work is engaging and relevant."
+      },
+      {
+        "professor": "Prof. Christopher Davis",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Prof. Davis often seems unprepared for lectures. Discussions can be circular and unproductive."
+      },
+      {
+        "professor": "Dr. Olivia Rodriguez",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Dr. Rodriguez explains complex brain functions clearly. Her research insights are fascinating."
+      },
+      {
+        "professor": "Prof. Andrew Miller",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Prof. Miller's corporate experience is valuable, but his teaching style can be inconsistent."
+      },
+      {
+        "professor": "Dr. Sophia Patel",
+        "subject": "Genetics",
+        "stars": 5,
+        "review": "Dr. Patel is an exceptional educator. Her ability to simplify complex genetic concepts is remarkable."
+      },
+      {
+        "professor": "Prof. William Chen",
+        "subject": "Mechanical Engineering",
+        "stars": 4,
+        "review": "Prof. Chen's practical labs complement theoretical lectures well. Assignments are challenging but fair."
+      },
+      {
+        "professor": "Dr. Elizabeth Carter",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Dr. Carter's lectures are informative but can be monotonous. Field work opportunities are excellent."
+      },
+      {
+        "professor": "Prof. John Anderson",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Prof. Anderson's enthusiasm for music is infectious. His classes are a perfect blend of theory and practice."
+      }
+    ]
+  }
